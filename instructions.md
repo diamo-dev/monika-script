@@ -10,7 +10,7 @@ Loader.lua
 Loader.lua - ModuleScript named "MainModule"
 Server.lua - Script named "script.py"
 Client.lua - LocalScript named "client.py"
-Monika - assets/Monika
+Monika - assets/Monika.rbxm
 
 Also remove whitelist to actually use.
 
