@@ -12,5 +12,5 @@ Go learn something idk
 
 # Credits
 
-Custom fonts module from EgoMoose
-Mesh from https://sketchfab.com/3d-models/monika-d020f5c9d9844a59839d764bbc01474f (rigged by me)
+- Custom fonts module from EgoMoose
+- Mesh from https://sketchfab.com/3d-models/monika-d020f5c9d9844a59839d764bbc01474f (rigged by me)
